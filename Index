@@ -4,8 +4,8 @@
 <head>
      <meta charset=“UTF-8”>
      <title>Math Through Art </title>
+<link rel="stylesheet"href="styles.css">
 </head>
-
 <body>
 <h1>Math Through Art!</h1>
 <h2>Making Math Visual Spacial Creative and Fun!</h2>
